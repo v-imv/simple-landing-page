@@ -4,11 +4,11 @@ This is my first attempt at making a simple but modern looking landing page.
 You can see how it looks by clicking on "github-pages" under the heading "Environments".
 
 ## Purpose Of This Project
-I undertook this small project to try amd apply:
+I undertook this small project to try and apply:
 
 -Basic Terminal Commands on the Xubuntu Linux Distribution
 
--How to use git and github
+-How to use Git and Github
 
 -Basic HTML
 
