@@ -1,8 +1,13 @@
 # Simple Landing Page
+This is my first attempt at making a simple but modern looking landing page.
+You can see how it looks by clicking on "github-pages" under the heading "Environments".
 
-This is a project I am undertaking to apply what I have learned about HTML, CSS, Flexbox, Git, Github and the Xubuntu (Linux Distribution) Terminal thus far in my journey of learning to code. In hindsight it is designed very poorly, I used a lot of padding and margin amd the page is not very responsive.
+## Purpose Of This Project
+I undertook this small project to try amd apply:
+-Basic Terminal Commands on the Xubuntu Linux Distribution
+-How to use git and github
+-Basic HTML
+-Basic CSS
 
-# Acknowledgements
-
-All Images - Henrique Setim
-https://unsplash.com/@henriquesetim
+## Acknowledgements: 
+All Images used come from Henrique Setim at https://unsplash.com/@henriquesetim
