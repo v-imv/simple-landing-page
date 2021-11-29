@@ -6,13 +6,13 @@ You can see how it looks by clicking on "github-pages" under the heading "Enviro
 ## Purpose Of This Project
 I undertook this small project to try and apply my learning of:
 
--Basic Terminal Commands on the Xubuntu Linux Distribution
+- Basic Terminal Commands on the Xubuntu Linux Distribution
 
--How to use Git and Github
+- How to use Git and Github
 
--Basic HTML
+- Basic HTML
 
--Basic CSS
+- Basic CSS
 
 ## Acknowledgements: 
 All Images used come from Henrique Setim at https://unsplash.com/@henriquesetim
